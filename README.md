@@ -35,4 +35,4 @@ Add files to my Github repository (https://github.com/abasit96/Challenge-1), and
 Also deployed to Github pages. 
 
 ##### Screenshot
-![Screenshot](/Users/bootcamp/bootcamp/Challenge-1/Screenshot Horiseon.png)
+![Screenshot](assets/images/Screenshot Horiseon.png)
