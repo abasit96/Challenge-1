@@ -33,3 +33,6 @@ Made the CSS code coherent after I added the semantic elements so the website ca
 Worked with a tutor through out the challenge to make sure the Acceptance Criteria is done.
 Add files to my Github repository (https://github.com/abasit96/Challenge-1), and commited changes as I tweaked the project.
 Also deployed to Github pages. 
+
+##### Screenshot
+![Screenshot](/Users/bootcamp/bootcamp/Challenge-1/Screenshot Horiseon.png)
