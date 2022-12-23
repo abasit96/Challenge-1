@@ -36,3 +36,8 @@ Also deployed to Github pages.
 
 ##### Screenshot
 ![Screenshot](./assets/images/screenshot.png)
+
+###### Deployment Page
+https://abasit96.github.io/Challenge-1/
+
+
